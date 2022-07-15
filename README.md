@@ -21,9 +21,9 @@ DeFi智能合约和网站等,偶尔也写一些博客.🌈
   <i>技术博客站点，让我们一起分享吧!</i>
 
 <p align="center">
-<a href= "https://blog.csdn.net/a746277441?type=blog"><img src="https://github.com/casiphia/casiphia/blob/master/icons/header_.png"/></a>
-<a href= "https://www.jianshu.com/u/088a5724aa61"><img src="https://github.com/casiphia/casiphia/blob/master/icons/jianshu.png"/></a>
-<a href= "https://juejin.cn/user/4266531768776888"><img src="https://github.com/casiphia/casiphia/blob/master/icons/juejin.png"/></a>
+<a href= "https://blog.csdn.net/a746277441?type=blog"><img src="https://github.com/casiphia/casiphia/blob/main/icons/csdn.png"/></a>
+<a href= "https://www.jianshu.com/u/088a5724aa61"><img src="https://github.com/casiphia/casiphia/blob/main/icons/jianshu.png"/></a>
+<a href= "https://juejin.cn/user/4266531768776888"><img src="https://github.com/casiphia/casiphia/blob/main/icons/juejin.png"/></a>
 
 </p>
 
