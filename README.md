@@ -1,6 +1,6 @@
 # Hello World 👋
 
-![](https://github.com/casiphia/casiphia/blob/master/icons/header_.png)
+![](https://github.com/casiphia/casiphia/blob/main/icons/header_.png)
 
 我喜欢一些新鲜的东西,最近在做区块链相关工作.
 🐳 有关分布式基础设施`Kubernetes`
