@@ -24,7 +24,7 @@ DeFi智能合约和网站等,偶尔也写一些博客.🌈
 <a href= "https://blog.csdn.net/a746277441?type=blog"><img src="https://github.com/casiphia/casiphia/blob/main/icons/csdn.png"/></a>
 <a href= "https://www.jianshu.com/u/088a5724aa61"><img src="https://github.com/casiphia/casiphia/blob/main/icons/jianshu.png"/></a>
 <a href= "https://juejin.cn/user/4266531768776888"><img src="https://github.com/casiphia/casiphia/blob/main/icons/juejin.png"/></a>
-
+<a href= "https://www.zhihu.com/people/wang-diao-33-63"><img src="https://github.com/casiphia/casiphia/blob/main/icons/zhihu.png"/></a>
 </p>
 
 ---
